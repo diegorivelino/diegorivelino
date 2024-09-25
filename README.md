@@ -1,4 +1,4 @@
-## Eu sou Diego Rivelino.
+# I'm Diego Rivelino. Web developer.
 
 ## My Skills
 
