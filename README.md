@@ -6,7 +6,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/diegorivelino)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.x.com/diegormls)
 
-![Diego Rivelino GitHub stats](https://github-readme-stats.vercel.app/api?username=diegorivelino&show_icons=true&theme=dracula&locale=pt-br)
+![Diego Rivelino GitHub stats](https://github-readme-stats.vercel.app/api?username=diegorivelino&show_icons=true&theme=dracula&count_private=true&locale=pt-br)
 
 # Tecnologias que utilizo:
 
