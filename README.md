@@ -1,5 +1,3 @@
-# I'm Diego Rivelino. Web developer.
-
 ## My Skills
 
 #### Main Stack:
