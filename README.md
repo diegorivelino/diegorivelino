@@ -46,6 +46,7 @@
 <div>
     <img aling="center" alt="DG-W11" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg"/>
     <img aling="center" alt="DG-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
+    <img aling="center" alt="DG-N++" height="30" width="40" src="https://www.tech-wiki.net/images/a/a8/Notepad%2B%2B_logo.png"/>
     <img aling="center" alt="DG-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 </div></br>
 
